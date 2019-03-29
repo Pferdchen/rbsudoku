@@ -1,2 +1,2 @@
 # rbsudoku
-Implement sudoku with Ruby
+Implement Sudoku with Ruby.
